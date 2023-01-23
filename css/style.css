@@ -7,14 +7,17 @@
 .margin {
     margin: 0px 20% 0px 20%;
 }
+
 .header {
     background-color: aquamarine;
     height: 100px;
 }
+
 .headerTop {
     display: flex;
     align-items: center;
     background-color: darkgoldenrod;
+
 }
 
 .NavContainer {
@@ -24,11 +27,13 @@
     width: 60%;
     justify-content: center;
 }
+
 .headerTopItem {
     border: 2px dashed black;
     flex-grow: 1;
     padding: 10px;
 }
+
 .navitem {
     padding: 10px;
 }
