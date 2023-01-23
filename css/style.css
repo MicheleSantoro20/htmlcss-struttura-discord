@@ -58,22 +58,23 @@
     background-color: rgb(248, 139, 234);
     height: 350px;
     width: 80%;
-    display: inline-block;
-    
+    border: 2px dashed black;
  }
+
  .section {
     height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
  }
+
 .sectionImg {
     height: 500px;
     width: 60%;
     background-color: #007fff;
     border: 2px dashed black;
 
-    }
+}
 
 .sectionTxt {
     height: 500px;
@@ -134,5 +135,32 @@
     height: 550px;
     width: 17.5%;
     display: inline-block;
+    border: 2px dashed black;
+}
+
+.lastFooterSection {
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.lastFooterBG {
+    background-color: rgb(20, 20, 20);
+    height: 100px;
+    padding-top: 50px;
+
+}
+
+.lastButton {
+    background-color: rgb(238, 155, 231);
+    padding: 5px;
+    border: 2px dashed black;
+}
+
+.lastLogo {
+    background-color: rgb(238, 155, 231);
+    padding: 5px;
     border: 2px dashed black;
 }
