@@ -8,15 +8,15 @@
     margin: 0px 20% 0px 20%;
 }
 
-.header {
+.headerTopBG {
     background-color: aquamarine;
-    height: 100px;
+    height: 60px;
 }
 
 .headerTop {
     display: flex;
     align-items: center;
-    background-color: darkgoldenrod;
+    height: 60px;
 
 }
 
@@ -30,6 +30,7 @@
 
 .headerTopItem {
     border: 2px dashed black;
+    background-color: darkgoldenrod;
     flex-grow: 1;
     padding: 10px;
 }
@@ -37,3 +38,12 @@
 .navitem {
     padding: 10px;
 }
+
+.login {
+    text-align: right;
+}
+
+ .headerBotBG {
+    background-color: blue;
+    height: 400px;
+ }
