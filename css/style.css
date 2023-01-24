@@ -18,7 +18,6 @@
     display: flex;
     align-items: center;
     height: 60px;
-
 }
 
 .NavContainer {
@@ -120,14 +119,12 @@
     background-color: 	#FA8072;
     height: 550px;
     width: 30%;
-    display: inline-block;
 }
 
 .subsections {
     background-color: rgb(76, 198, 214);
     height: 550px;
     width: 17.5%;
-    display: inline-block;
 }
 
 .lastFooterSection {
@@ -142,7 +139,6 @@
     background-color: rgb(20, 20, 20);
     height: 100px;
     padding-top: 50px;
-
 }
 
 .lastButton {
