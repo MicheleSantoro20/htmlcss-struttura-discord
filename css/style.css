@@ -118,13 +118,13 @@
 .bigsubsection {
     background-color: 	#FA8072;
     height: 550px;
-    width: 30%;
+    width: 35%;
 }
 
 .subsections {
     background-color: rgb(76, 198, 214);
     height: 550px;
-    width: 17.5%;
+    width: calc((100%-35%) / 4);
 }
 
 .lastFooterSection {
